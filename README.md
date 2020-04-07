@@ -15,8 +15,8 @@ python run.py
 ```
 
 ### Inference
-- Download pretrained model `banner_model.pt` from https://drive.google.com/file/d/1LtE0By2_cHXoHP0is0l0DVwfXIHBHXEV/view?usp=sharing 
-- Place the model in the `models` folder.
+- For using our pretrained model, download `banner_model.pt` from https://drive.google.com/file/d/1LtE0By2_cHXoHP0is0l0DVwfXIHBHXEV/view?usp=sharing 
+- Place the model file in the `models` folder.
 - Run the following command with example sentence:
 ```bash
 python inference.py --sent 'শেখ মুজিবুর রহমান ফরিদপুর জেলার গোপালগঞ্জ মহকুমার টুঙ্গীপাড়া গ্রামে ১৯২০ সালের ১৭ মার্চ জন্মগ্রহণ করেন'
