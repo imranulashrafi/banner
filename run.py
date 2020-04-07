@@ -79,7 +79,6 @@ data_dist = [7237, 15684, 714867, 759, 20815, 9662, 8512, 37529, 70025]
 crit_weights = crit_weights_gen(0.5,0.9,data_dist)
 #insert 0 cost for ignoring <PAD>
 crit_weights.insert(0,0)
-print(crit_weights)
 crit_weights = torch.tensor(crit_weights).to(device)
 criterion = nn.CrossEntropyLoss(weight=crit_weights)
 
