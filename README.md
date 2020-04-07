@@ -1,5 +1,5 @@
 # BANNER
-Pytorch implementation for paper [BANNER: A Cost-Sensitive Contextualized Model for Bangla Named Entity Recognition](https://ieeexplore.ieee.org/iel7/6287639/8948470/09044317.pdf) by Imranul Ashrafi, Muntasir Mohammad, Arani Shawkat Mauree, Galib Md. Azraf Nijhum, Redwanul Karim, Nabeel Mohammed and Sifat Momen.
+Pytorch implementation for paper [BANNER: A Cost-Sensitive Contextualized Model for Bangla Named Entity Recognition](https://ieeexplore.ieee.org/iel7/6287639/8948470/09044317.pdf) (published in IEEE Access) by Imranul Ashrafi, Muntasir Mohammad, Arani Shawkat Mauree, Galib Md. Azraf Nijhum, Redwanul Karim, Nabeel Mohammed and Sifat Momen.
 
 <img src="methodology.jpg"/>
 
