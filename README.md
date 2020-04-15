@@ -4,10 +4,11 @@ Pytorch implementation for paper [BANNER: A Cost-Sensitive Contextualized Model 
 <img src="methodology.jpg"/>
 
 ## Getting Started
-### Training
-
+### Installing
 - Install PyTorch and dependencies from https://pytorch.org.
 - Install PyTorch Pretrained BERT from https://pypi.org/project/pytorch-pretrained-bert/
+
+### Training
 - Download dataset file `Bangla-NER-Splitted-Dataset.json` from https://github.com/MISabic/NER-Bangla-Dataset and place the file in the `data` folder.
 - Run the following command:
 ```bash
